@@ -35,12 +35,12 @@ export function ContactSection() {
     {
       icon: Phone,
       title: "Call Us",
-      details: ["+91 44 2345 6789", "+91 44 2345 6790"],
+      details: ["+1 (415) 555-2671", "+1 (415) 555-4829"],
     },
     {
       icon: LocationOn,
       title: "Visit Us",
-      details: ["123 Healthcare Drive", "Anna Salai, Chennai - 600002, Tamil Nadu, India"],
+      details: ["Cloudhcare Solutions 245 Market Street, Suite 1200 San Francisco, CA 94105 United States"],
     },
     {
       icon: Schedule,
