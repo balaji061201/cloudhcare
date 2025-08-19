@@ -81,7 +81,7 @@ export function Footer() {
                       variant="body2"
                       sx={{ color: "rgba(255, 255, 255, 0.7)" }}
                     >
-                      +91 44 2345 6789
+                      +1 (415) 555-2671
                     </Typography>
                   </Box>
                   <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
@@ -92,7 +92,8 @@ export function Footer() {
                       variant="body2"
                       sx={{ color: "rgba(255, 255, 255, 0.7)" }}
                     >
-                      123 Healthcare Drive Anna Salai, Chennai - 600002, Tamil Nadu, India
+                      Cloudhcare Solutions 245 Market Street, Suite 1200 San
+                      Francisco, CA 94105 United States
                     </Typography>
                   </Box>
                 </Stack>
