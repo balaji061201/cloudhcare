@@ -1,0 +1,73 @@
+/* Fonts */
+@font-face {
+  font-family: "InterRegular";
+  src: url("/src/assets/fonts/Inter-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "InterItalic";
+  src: url("/src/assets/fonts/Inter-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "InterMedium";
+  src: url("/src/assets/fonts/Inter-Medium.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "InterMediumItalic";
+  src: url("/src/assets/fonts/Inter-MediumItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "InterSemiBold";
+  src: url("/src/assets/fonts/Inter-SemiBold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "InterBold";
+  src: url("/src/assets/fonts/Inter-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+/* Fonts */
+
+:root {
+  /* fontfamily */
+  --interregular: "InterRegular", sans-serif;
+  --interitalic: "InterItalic", sans-serif;
+  --intermedium: "InterMedium", sans-serif;
+  --intermediumitalic: "InterMediumItalic", sans-serif;
+  --intersemibold: "InterSemiBold", sans-serif;
+  --interbold: "InterBold", sans-serif;
+
+  /* colors */
+  --primary: #1e90ff;
+  --secondary: #eb9846;
+  --fontcolor1: #1F2429;
+  --fontcolor2: #2F363D;
+  --fontcolor3: #798087;
+  --white: #FFFFFF;
+}
+
+body {
+  font-family: "Inter", "Lato", "Open Sans", system-ui, -apple-system,
+    sans-serif;
+}
+
+/* slick carousel default styles */
+.slick-slider {
+  position: relative;
+}
+.slick-dots li button:before {
+  color: white;
+}
+.slick-prev, .slick-next {
+  z-index: 2;
+}
+
