@@ -16,7 +16,7 @@ import {
 import MenuIcon from '@mui/icons-material/Menu';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 import { useState, useEffect } from 'react';
-import logo from '../assets/images/Cloud Health Care-logo.png';
+import logo from '../assets/images/cloudhcare-logo.png';
 import { useStyles } from '../styles/style';
 
 export function Header() {
