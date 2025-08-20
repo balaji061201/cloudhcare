@@ -59,7 +59,7 @@ export function WhyChooseUsSection() {
         {/* Header */}
         <Box textAlign="center" sx={{ mb: 8 }}>
           <Typography variant="h2" sx={{ mb: 2 }} className={classes.sectiontitle}>
-            Why Choose Cloudhcare?
+            Why Choose Cloud Health Care?
           </Typography>
           <Divider
             sx={{

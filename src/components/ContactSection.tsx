@@ -30,7 +30,7 @@ export function ContactSection() {
     {
       icon: Email,
       title: "Email Us",
-      details: ["info@cloudhcare.com", "support@cloudhcare.com"],
+      details: ["info@Cloud Health Care.com", "support@Cloud Health Care.com"],
     },
     {
       icon: Phone,
@@ -40,7 +40,7 @@ export function ContactSection() {
     {
       icon: LocationOn,
       title: "Visit Us",
-      details: ["Cloudhcare Solutions 245 Market Street, Suite 1200 San Francisco, CA 94105 United States"],
+      details: ["Cloud Health Care Solutions 245 Market Street, Suite 1200 San Francisco, CA 94105 United States"],
     },
     {
       icon: Schedule,

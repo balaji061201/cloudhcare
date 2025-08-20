@@ -19,7 +19,7 @@ export function TestimonialsSection() {
       title: "Chief Medical Officer",
       organization: "Metropolitan General Hospital",
       content:
-        "Cloudhcare transformed our staffing challenges into opportunities. Their team provided us with exceptional nurses who seamlessly integrated into our workflow. The level of professionalism and expertise they bring is unmatched.",
+        "Cloud Health Care transformed our staffing challenges into opportunities. Their team provided us with exceptional nurses who seamlessly integrated into our workflow. The level of professionalism and expertise they bring is unmatched.",
       rating: 5,
     },
     {
@@ -27,7 +27,7 @@ export function TestimonialsSection() {
       title: "Healthcare Administrator",
       organization: "Riverside Medical Center",
       content:
-        "The consulting services from Cloudhcare helped us streamline our operations and improve patient satisfaction scores by 40%. Their strategic insights were exactly what we needed to navigate the changing healthcare landscape.",
+        "The consulting services from Cloud Health Care helped us streamline our operations and improve patient satisfaction scores by 40%. Their strategic insights were exactly what we needed to navigate the changing healthcare landscape.",
       rating: 5,
     },
     {
@@ -64,7 +64,7 @@ export function TestimonialsSection() {
             className={classes.sectionbody}
           >
             Don't just take our word for it. Hear from the healthcare
-            organizations and families who trust Cloudhcare with their most
+            organizations and families who trust Cloud Health Care with their most
             important needs.
           </Typography>
         </Box>

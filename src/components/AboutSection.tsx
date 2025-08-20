@@ -24,7 +24,7 @@ export function AboutSection() {
                   sx={{ mb: 2 }}
                   className={classes.sectiontitle}
                 >
-                  About Cloudhcare
+                  About Cloud Health Care
                 </Typography>
                 <Divider
                   sx={{
@@ -39,7 +39,7 @@ export function AboutSection() {
 
               <Stack spacing={2}>
                 <Typography variant="body1" className={classes.sectionbody}>
-                  At Cloudhcare, we believe that exceptional healthcare begins
+                  At Cloud Health Care, we believe that exceptional healthcare begins
                   with exceptional people and innovative solutions. Our mission
                   is to transform the healthcare landscape by making it more
                   efficient, accessible, and compassionate for everyone.
@@ -64,7 +64,7 @@ export function AboutSection() {
               <Grid container spacing={3} sx={{ pt: 3 }}>
                 {[
                   { number: "500+", label: "Healthcare Partners" },
-                  { number: "10K+", label: "Patients Served" },
+                  { number: "100K+", label: "Patients Served" },
                   { number: "15+", label: "Years Experience" },
                 ].map((stat, index) => (
                   <Grid size={{ xs: 4 }} key={index}>

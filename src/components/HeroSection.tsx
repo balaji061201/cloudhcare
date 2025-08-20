@@ -71,7 +71,7 @@ export function HeroSection() {
             variant="h5"
             className={classes.herosubtitle}
           >
-            Cloudhcare provides consulting, staffing, and home healthcare
+            Cloud Health Care provides consulting, staffing, and home healthcare
             services for hospitals, clinics, and families. We're committed to
             making healthcare more efficient, accessible, and compassionate.
           </Typography>

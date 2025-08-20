@@ -47,7 +47,7 @@ export function Footer() {
               <Stack spacing={2}>
                 <img
                   src={logo}
-                  alt="cloudhcarelogo"
+                  alt="Cloud Health Carelogo"
                   className={classes.footerlogo}
                 />
                 <Typography
@@ -70,7 +70,7 @@ export function Footer() {
                       variant="body2"
                       sx={{ color: "rgba(255, 255, 255, 0.7)" }}
                     >
-                      info@cloudhcare.com
+                      info@Cloud Health Care.com
                     </Typography>
                   </Box>
                   <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
@@ -92,7 +92,7 @@ export function Footer() {
                       variant="body2"
                       sx={{ color: "rgba(255, 255, 255, 0.7)" }}
                     >
-                      Cloudhcare Solutions 245 Market Street, Suite 1200 San
+                      Cloud Health Care Solutions 245 Market Street, Suite 1200 San
                       Francisco, CA 94105 United States
                     </Typography>
                   </Box>
@@ -270,7 +270,7 @@ export function Footer() {
               variant="body2"
               sx={{ color: "rgba(255, 255, 255, 0.7)" }}
             >
-              © 2025 Cloudhcare. All rights reserved.
+              © 2025 Cloud Health Care, Developed by eTekItSolutions. All rights reserved.
             </Typography>
             <Stack direction="row" spacing={3}>
               {["Privacy Policy", "Terms of Service", "HIPAA Compliance"].map(

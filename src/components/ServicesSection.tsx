@@ -25,19 +25,6 @@ export function ServicesSection() {
   const classes = useStyles();
   const services = [
     {
-      icon: Psychology,
-      title: "Healthcare Consulting & Advisory",
-      description:
-        "Strategic guidance to optimize operations, ensure compliance, and drive financial performance.",
-      features: [
-        "Strategic Planning & Operations",
-        "Regulatory Compliance",
-        "Financial Planning & Analysis",
-        "Quality Improvement Programs",
-        "Technology Implementation",
-      ],
-    },
-    {
       icon: People,
       title: "Workforce & Staffing Solutions",
       description:
@@ -48,6 +35,19 @@ export function ServicesSection() {
         "Administrative Personnel",
         "Temporary & Permanent Placement",
         "Credentialing & Compliance",
+      ],
+    },
+    {
+      icon: Psychology,
+      title: "Healthcare Consulting & Advisory",
+      description:
+        "Strategic guidance to optimize operations, ensure compliance, and drive financial performance.",
+      features: [
+        "Strategic Planning & Operations",
+        "Regulatory Compliance",
+        "Financial Planning & Analysis",
+        "Quality Improvement Programs",
+        "Technology Implementation",
       ],
     },
     {
