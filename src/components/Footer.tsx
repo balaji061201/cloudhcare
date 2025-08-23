@@ -92,8 +92,7 @@ export function Footer() {
                       variant="body2"
                       sx={{ color: "rgba(255, 255, 255, 0.7)" }}
                     >
-                      Cloud Health Care Solutions 245 Market Street, Suite 1200 San
-                      Francisco, CA 94105 United States
+                      5301 Buckeystown Pike, Suite 480 Frederick, Maryland 21704
                     </Typography>
                   </Box>
                 </Stack>

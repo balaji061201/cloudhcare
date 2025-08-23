@@ -40,7 +40,7 @@ export function ContactSection() {
     {
       icon: LocationOn,
       title: "Visit Us",
-      details: ["Cloud Health Care Solutions 245 Market Street, Suite 1200 San Francisco, CA 94105 United States"],
+      details: ["5301 Buckeystown Pike, Suite 480 Frederick, Maryland 21704"],
     },
     {
       icon: Schedule,
