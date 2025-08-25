@@ -30,12 +30,12 @@ export function ContactSection() {
     {
       icon: Email,
       title: "Email Us",
-      details: ["info@Cloud Health Care.com", "support@Cloud Health Care.com"],
+      details: ["info@cloudhealthcare.com", "support@cloudhealthcare.com"],
     },
     {
       icon: Phone,
       title: "Call Us",
-      details: ["+1 (415) 555-2671", "+1 (415) 555-4829"],
+      details: ["+1 (301) 703-3047", "+1 (415) 555-4829"],
     },
     {
       icon: LocationOn,

@@ -70,7 +70,7 @@ export function Footer() {
                       variant="body2"
                       sx={{ color: "rgba(255, 255, 255, 0.7)" }}
                     >
-                      info@Cloud Health Care.com
+                      info@cloudhealthcare.com
                     </Typography>
                   </Box>
                   <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
@@ -81,7 +81,7 @@ export function Footer() {
                       variant="body2"
                       sx={{ color: "rgba(255, 255, 255, 0.7)" }}
                     >
-                      +1 (415) 555-2671
+                      +1 (301) 703-3047
                     </Typography>
                   </Box>
                   <Box sx={{ display: "flex", alignItems: "center", gap: 1 }}>
